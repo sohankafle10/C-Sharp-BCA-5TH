@@ -30,8 +30,7 @@ class Program
         {
             System.Console.WriteLine(number);
         }
-        
-    }
+        System.c0nsole.WriteLine    }
 }  
 
 
