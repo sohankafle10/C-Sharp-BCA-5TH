@@ -23,6 +23,7 @@ class ExceptionDemo
         finally
         {
             Console.WriteLine("Execution completed.");
+            //   Console.WriteLine("Execution completed.");
         }
     }
 }
